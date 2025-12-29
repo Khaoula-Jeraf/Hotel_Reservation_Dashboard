@@ -12,7 +12,6 @@ aims to better **monitor and steer the performance of its hotels** in order to:
 
 Management needs a **clear, decision-oriented BI dashboard** to support strategic and operational decisions.
 
----
 
 ## 🎯 Business Challenges Addressed
 The dashboard answers three key business questions:
@@ -32,7 +31,6 @@ The dashboard answers three key business questions:
 - Relationship between price, volume, and time
 - Better anticipation of demand fluctuations
 
----
 
 ## 🔄 Data Workflow (End-to-End BI Approach)
 This project follows a complete **Business Intelligence lifecycle**, from raw data to actionable insights.
@@ -45,7 +43,6 @@ This project follows a complete **Business Intelligence lifecycle**, from raw da
 
 > Goal: deliver **reliable and analysis-ready data**
 
----
 
 ### 2️⃣ Power Query – Data Transformation
 - Data normalization (dates, categories)
@@ -55,7 +52,6 @@ This project follows a complete **Business Intelligence lifecycle**, from raw da
 
 > Goal: transform raw data into **business-ready information**
 
----
 
 ### 3️⃣ Power BI – Data Modeling & Visualization
 - Performance-oriented data model
@@ -72,7 +68,6 @@ This project follows a complete **Business Intelligence lifecycle**, from raw da
 
 > Goal: deliver a **clear and actionable data story**
 
----
 
 ## 📊 Key KPIs
 - **Revenue**
@@ -81,7 +76,6 @@ This project follows a complete **Business Intelligence lifecycle**, from raw da
 - **Average Discount**
 - **Parking Demand**
 
----
 
 ## 🧠 Insights & Improvement Opportunities
 Based on the analysis, several improvement areas can be identified:
@@ -99,4 +93,5 @@ Based on the analysis, several improvement areas can be identified:
 - Year-over-year performance monitoring
 - Early detection of risk periods (revenue drop or overcapacity)
 - Data-driven decision-making for management teams
+
 
